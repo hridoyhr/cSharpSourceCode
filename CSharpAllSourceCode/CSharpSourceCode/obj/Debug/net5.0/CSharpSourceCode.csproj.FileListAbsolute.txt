@@ -1,0 +1,16 @@
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\bin\Debug\net5.0\CSharpSourceCode.exe
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\bin\Debug\net5.0\CSharpSourceCode.deps.json
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\bin\Debug\net5.0\CSharpSourceCode.runtimeconfig.json
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\bin\Debug\net5.0\CSharpSourceCode.runtimeconfig.dev.json
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\bin\Debug\net5.0\CSharpSourceCode.dll
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\bin\Debug\net5.0\ref\CSharpSourceCode.dll
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\bin\Debug\net5.0\CSharpSourceCode.pdb
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\obj\Debug\net5.0\CSharpSourceCode.csproj.AssemblyReference.cache
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\obj\Debug\net5.0\CSharpSourceCode.GeneratedMSBuildEditorConfig.editorconfig
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\obj\Debug\net5.0\CSharpSourceCode.AssemblyInfoInputs.cache
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\obj\Debug\net5.0\CSharpSourceCode.AssemblyInfo.cs
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\obj\Debug\net5.0\CSharpSourceCode.csproj.CoreCompileInputs.cache
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\obj\Debug\net5.0\CSharpSourceCode.dll
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\obj\Debug\net5.0\ref\CSharpSourceCode.dll
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\obj\Debug\net5.0\CSharpSourceCode.pdb
+G:\All C# File\AsthaIt\InternAllThings\Class_Assignment\AsthaIT\C#\CSharpAllSourceCode\CSharpSourceCode\obj\Debug\net5.0\CSharpSourceCode.genruntimeconfig.cache
